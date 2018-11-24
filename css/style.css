@@ -1,3 +1,29 @@
 .title {
 	text-align: center;
+	font-weight: bolder;
+}
+
+.jumbotron {
+	background-color: rgb(119, 31, 38);
+	color: rgb(202, 202, 202);
+}
+
+.gem1 {
+	max-width: 140px;
+	max-height: 140px;
+}
+
+.gem2 {
+	max-width: 140px;
+	max-height: 140px;
+}
+
+.gem3 {
+	max-width: 140px;
+	max-height: 140px;
+}
+
+.gem4 {
+	max-width: 140px;
+	max-height: 140px;
 }
