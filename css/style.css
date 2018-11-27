@@ -1,29 +1,79 @@
 .title {
 	text-align: center;
 	font-weight: bolder;
+	font-size: 45px;
 }
 
 .jumbotron {
 	background-color: rgb(119, 31, 38);
 	color: rgb(202, 202, 202);
+	min-height: 100%;
 }
 
 .gem1 {
-	max-width: 140px;
-	max-height: 140px;
+	width: 140px;
+	height: 140px;
 }
 
 .gem2 {
-	max-width: 140px;
-	max-height: 140px;
+	width: 140px;
+	height: 140px;
 }
 
 .gem3 {
-	max-width: 140px;
-	max-height: 140px;
+	width: 140px;
+	height: 140px;
 }
 
 .gem4 {
-	max-width: 140px;
-	max-height: 140px;
+	width: 140px;
+	height: 140px;
+}
+
+#target {
+	height: 80px;
+	background-color: rgb(202, 202, 202);
+	color: black;
+	font-size: 30px;
+	text-align: center;
+	line-height: 80px;
+}
+
+#wins {
+	height: 80px;
+	background-color: rgb(204, 167, 0);
+}
+
+#start {
+	height: 80px;
+	background-color: rgb(204, 167, 0);
+	font-size: 25px;
+	font-weight: bold;
+	text-align: center;
+	line-height: 65px;
+}
+
+.row1 {
+	margin-bottom: 15px;
+}
+
+#counter {
+	font-weight: bolder;
+	font-size: 24px;
+	margin-bottom: 0px;
+}
+
+#counter2 {
+	font-weight: bolder;
+	font-size: 24px;
+	margin-bottom: 0px;
+}
+
+#total {
+	height: 80px;
+	background-color: rgb(202, 202, 202);
+	margin-top: 15px;
+	color: black;
+	font-size: 30px;
+	text-align: center;
 }
